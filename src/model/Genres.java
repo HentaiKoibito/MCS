@@ -1,0 +1,4 @@
+package model;
+public enum Genres{
+	ROCK,HIPHOP,CLASSICAL_MUSIC,REGGAE,SALSA,METAL,UNDEFINED;
+}
